@@ -1,0 +1,1 @@
+!function(e,o){"object"==typeof exports&&"object"==typeof module?module.exports=o():"function"==typeof define&&define.amd?define("global",[],o):"object"==typeof exports?exports.global=o():e.global=o()}(this,(()=>(window.alert("jkl;"),{})));

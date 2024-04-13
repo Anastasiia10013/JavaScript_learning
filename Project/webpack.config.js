@@ -3,7 +3,7 @@ const path = require("path");
 module.exports = {
   mode: "production",
   entry: {
-    ["global"]: "./src/post_get_test.js",
+    ["global"]: "./src/webflowtest.js",
   },
   output: {
     path: path.resolve(__dirname, "dist"),
